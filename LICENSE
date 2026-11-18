@@ -1,0 +1,78 @@
+# NullAgent License
+
+Version 1.0
+
+Copyright (c) 2026 Toast. All rights reserved.
+
+Original repository: `https://github.com/toasta-xx/AI-LIB`
+
+---
+
+## 1. Grant
+
+You are granted a worldwide, royalty free, non exclusive license to use, copy,
+modify, merge, publish, and distribute this software and derivative works of it,
+in source or compiled form, in open source or closed source projects, subject to
+the conditions below.
+
+## 2. Attribution
+
+Every use, copy, or distribution of this software or any derivative work must:
+
+a) Credit **Toast** as the original author.
+b) Include a link to the original repository above.
+c) Keep the copyright notice and this license with the software.
+d) Place the credit somewhere a reasonable person will see it, such as a README,
+   a credits screen, an about page, or in game documentation.
+
+For a compiled plugin distributed without source, the credit must appear at
+minimum in the project description or download page.
+
+## 3. Authorship
+
+You may rename this software, rebrand it, restyle it, and present it under any
+product name you choose.
+
+You may **not** claim authorship. Every name, title, credit line, and description
+used to present this software or a derivative work must retain the attribution
+**by Toast**. For example, renaming this to "SuperAgent by Someone" is not
+permitted. "SuperAgent by Toast" is permitted.
+
+You may not state or imply that you wrote, created, or originally authored this
+software or any substantial portion of it.
+
+## 4. No Sale Without Permission
+
+You may not sell this software or any derivative work, and may not bundle it into
+a paid product, without prior written permission from Toast.
+
+Distributing it at no charge, including inside a free project, is permitted.
+
+## 5. Forks
+
+Forks are permitted and encouraged. A fork must satisfy sections 2 and 3. A fork
+may not present itself as the original work or as an independent replacement for
+the original.
+
+## 6. Termination
+
+Your rights under this license end automatically if you violate any condition
+above. On termination you must stop distributing the software and any derivative
+work, and remove it from any store, repository, or download location you control.
+
+Rights are restored if Toast grants written permission, or if you cure the
+violation within 30 days of being notified.
+
+## 7. No Warranty
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## 8. Contact
+
+Permission requests, including commercial licensing, should be directed to Toast
+through the original repository.
